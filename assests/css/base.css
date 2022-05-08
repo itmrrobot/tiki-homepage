@@ -1,0 +1,42 @@
+:root {
+    --white-color: #fff;
+    --black-color: #000;
+    --primary-color: #1a94ff;
+    --second-color: #ff424e;
+
+    --header-height: 102px;
+    --nav-search-height: 40px;
+}
+
+* {
+    box-sizing: inherit;
+}
+
+html {
+    font-size: 62.5%;
+    line-height: 1.6rem;
+    font-family: 'Roboto', sans-serif;
+    box-sizing: border-box;
+}
+
+
+
+.mt-8 {
+    margin-top: 8px;
+}
+
+.mt-16 {
+    margin-top: 16px;
+}
+
+.mt-20 {
+    margin-top: 20px;
+}
+
+.mt-18 {
+    margin-top: 18px;
+}
+
+.mt-32 {
+    margin-top: 32px;
+}
